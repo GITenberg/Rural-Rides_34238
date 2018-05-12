@@ -31,6 +31,8 @@ description: "Rural Rides is the book for which the English journalist, agricult
   \ free vent to Cobbett's opinions.\nHe first published his observations in serial\
   \ form in the Political Register, running from 1822 to 1826. They were first published\
   \ in book form in two volumes in 1830.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34238#Rural-Rides
 gutenberg_issued: '2010-11-08'
 gutenberg_type: Text
 identifiers:
